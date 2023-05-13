@@ -1,0 +1,26 @@
+h1 {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+}
+
+.change-color-h1 {
+  font-size: 30px;
+  color: burlywood;
+}
+
+a {
+  color: burlywood;
+}
+
+.firstHeading {
+  background-color: lightblue;
+  border: 10px inset pink;
+  text-align: left;
+  margin-bottom: 50px;
+}
+
+.secondHeading {
+  background-color: aqua;
+  border: 5px solid black;
+  text-align: center;
+}
